@@ -1,4 +1,5 @@
-{
+{ "Profiles": [
+  {
   "Working Directory" : "\/Users\/samsonnguyen",
   "Prompt Before Closing 2" : 0,
   "Selected Text Color" : {
@@ -415,4 +416,6 @@
     "Blue Component" : 0.4351663589477539
   },
   "Set Local Environment Vars" : true
+}
+]
 }
